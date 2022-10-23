@@ -1,0 +1,75 @@
+#cont{
+    margin: auto;
+    width: fit-content;
+    border: 2px solid #33ea00;
+    padding: 10px;
+    overflow: auto;
+}
+
+.sch{
+    border: 2px solid black;
+    width: fit-content;
+    padding: 5px;
+    margin: 3px;
+    float: left;
+}
+
+.time{
+    width: 70px;
+}
+.weekSch{
+    width: 50px;
+    margin-right: 5px;
+}
+
+#schs{
+    overflow: auto;
+    margin-bottom: 10px;
+}
+
+#subm{
+    padding: 5px;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.lesson{
+    text-align: right;
+}
+
+.txtSch{
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+#errs{
+    font-size: 20px;
+    display: none;
+    float: right;
+    margin: 7px;
+}
+
+#subCont{
+    border: 2px solid gray;
+    width: fit-content;
+    margin: 5px;
+    max-width: max-content;
+    overflow: auto;
+}
+
+.day{
+    width: fit-content; 
+    float: left;
+}
+
+#logs{
+    width: fit-content;
+    margin-top: 10px;
+    border: 2px solid #8bb3f3;
+    padding: 10px;
+}
+
+#all{
+    width: fit-content;
+    margin: auto;
+}
